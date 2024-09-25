@@ -7,7 +7,7 @@ This lesson is designed to help JavaScript developers understand the basic synta
 ## Lesson Objectives
 
 - Understand variables and basic data types in Python
-- Learn about Python's number types: integers, floats, and complex numbers
+- Learn about Python's number types: integers and floats
 - Compare boolean values and truthiness between Python and JavaScript
 - Explore string manipulation in Python, including indexing, slicing, and formatting
 - Understand the differences in variable declaration and naming conventions between Python and JavaScript
