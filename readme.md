@@ -29,4 +29,4 @@ source venv/bin/activate
 
 [Go to Lesson](lesson.ipynb)
 
-[Go to Exercises](https://github.com/jdrichards-pursuit/skill-sharpening-python-part-one)
+[Go to Exercises](https://github.com/jdrichards-pursuit/week-3.2-python-theory/blob/main/lesson.ipynb)
