@@ -34,10 +34,9 @@ source venv/bin/activate
 
 ## Materials:
 
-- [Python Official Documentation](https://docs.python.org/3/)
-- [Why Use Jupyter Notebook for Educational Purposes](https://realpython.com/python-jupyter-notebook/)
-- [Jupyter Notebook Documentation](https://jupyter.org/documentation)
-- [Illustrated Guide to Python 3 - Matt Harrison](https://realpython.com/python-f-strings/)
-- [Python Cheat Sheet - QuickRef](https://www.pythoncheatsheet.org/)
-- [Python f-Strings - Real Python](https://realpython.com/python-f-strings/)
+- [Python Data Types - Official Documentation](https://docs.python.org/3/library/stdtypes.html)
+- [Python Strings - GeeksforGeeks](https://www.geeksforgeeks.org/python-strings/)
+- [Python String Methods - W3Schools](https://www.w3schools.com/python/python_strings_methods.asp)
+
+
 
