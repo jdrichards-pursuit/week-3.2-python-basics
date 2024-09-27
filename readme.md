@@ -27,6 +27,17 @@ source venv/bin/activate
 - select the Python interpreter in your IDE
 - choose `install` when asked to install the ipykernel package
 
-[Go to Lesson](./lesson.ipynb)
+## Links
+- [Go to Lesson](./lesson.ipynb)
 
-[Go to Exercises](https://github.com/jdrichards-pursuit/week-3.2-python-theory/blob/main/lesson.ipynb)
+- [Go to Exercises](https://github.com/jdrichards-pursuit/week-3.2-python-theory/blob/main/lesson.ipynb)
+
+## Materials:
+
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Why Use Jupyter Notebook for Educational Purposes](https://realpython.com/python-jupyter-notebook/)
+- [Jupyter Notebook Documentation](https://jupyter.org/documentation)
+- [Illustrated Guide to Python 3 - Matt Harrison](https://realpython.com/python-f-strings/)
+- [Python Cheat Sheet - QuickRef](https://www.pythoncheatsheet.org/)
+- [Python f-Strings - Real Python](https://realpython.com/python-f-strings/)
+
